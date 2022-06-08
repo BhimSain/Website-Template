@@ -1,0 +1,30 @@
+.card-container{
+   width: 98%;
+   margin: 0 auto;
+}
+.Trainner-team h1{
+    margin-left: 15px;
+    color: wheat;
+    font-style: italic;
+    box-sizing: border-box;
+}
+
+
+.card{
+    margin-top: 25px;
+}
+
+.contain-background{
+width: 100%;
+height: 100%;
+background-color: black;
+}
+
+.navbar{
+    --bs-navbar-color: white !important;
+    --bs-navbar-hover-color: white !important;
+    --bs-navbar-disabled-color: white !important;
+    --bs-navbar-active-color: white !important;
+    --bs-navbar-brand-color: white !important;
+    --bs-navbar-brand-hover-color: white !important
+}
